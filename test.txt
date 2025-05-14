@@ -3,3 +3,4 @@ seconda modifica
 terza modifica
 modifica branch
 modifica recursiveBranch
+modifica conflitto
